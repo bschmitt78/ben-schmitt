@@ -7,12 +7,12 @@ import App from './App.jsx'
 import { initializeApp } from "firebase/app";
 
 const firebaseConfig = {
-  apiKey: "AIzaSyDvfHZ2b0JyMZCi7_6IMYj5ZTKoOlE6YVY",
-  authDomain: "full-stack-react-726d8.firebaseapp.com",
-  projectId: "full-stack-react-726d8",
-  storageBucket: "full-stack-react-726d8.firebasestorage.app",
-  messagingSenderId: "825298698398",
-  appId: "1:825298698398:web:5fb7c5fcc76d4942bcbb8f"
+  apiKey: [],
+  authDomain: [],
+  projectId: [],
+  storageBucket: [],
+  messagingSenderId: [],
+  appId: [],
 };
 
 // Initialize Firebase
